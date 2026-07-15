@@ -1,0 +1,6 @@
+---
+icon: exclamation
+---
+
+# Roles prohibidos
+
