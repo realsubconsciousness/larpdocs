@@ -17,3 +17,21 @@ Las funciones de cada rango **se privan a los miembros del equipo de Staff** y n
 
 Para reportar a un usuario, podrás hacerlo uniéndote al canal de voz [#🪑│sᴀʟᴀ ᴅᴇ ᴇsᴘᴇʀᴀ](https://discord.com/channels/1490716672729026580/1491100006478778549) o mediante [#📩│sᴏᴘᴏʀᴛᴇ](https://discord.com/channels/1490716672729026580/1491098157797478530).  Para reportar un usuario es **obligatorio** tener **pruebas claras** del antirol o la conducta a reportar.
 
+#### Sanciones
+
+Actualmente utilizamos un **sistema de advertencias** como método de sanciones.\
+El equipo de Staff se **reserva** el derecho de establecer si una cierta evidencia es **concluyente** o no, y por ende, de **poner** o **no** una **advertencia** y, o **sanción** durante un **reporte** en base a las **pruebas** proporcionadas.
+
+A continuación, una lista con el **número** de advertencias necesarias para recibir una cierta **sanción** (es decir, **kick**, **aislamiento**, **ban**…).
+
+| <mark style="color:$primary;">**NÚMERO DE ADVERTENCIAS**</mark> | <mark style="color:$primary;">**SANCIÓN**</mark> |
+| --------------------------------------------------------------- | ------------------------------------------------ |
+| **3** Advertencias                                              | Aislamiento **2** horas                          |
+| **5** Advertencias                                              | Aislamiento **5** horas                          |
+| **10** Advertencias                                             | Aislamiento **1** día                            |
+| **15** Advertencias                                             | Aislamiento **3** días                           |
+
+Al un usuario estar **aislado** en el servidor de **Discord**, queda **prohibida** su **entrada** al servidor de ER:LC, a menos que un miembro de **fundación** diga lo **contrario**.
+
+Los **baneos** serán decididos por **fundación**. Cualquier **moderador** puede _**solicitar**_ un baneo si lo considera **oportuno**. Fundación es el **único** rango que puede **ejercer** un **baneo**.
+
