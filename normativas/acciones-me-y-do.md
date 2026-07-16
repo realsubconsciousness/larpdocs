@@ -10,7 +10,10 @@ Al ocurrir el rol en un **videojuego** o **entorno de simulación**, en este cas
 
 Se usa /me para expresar una acción que ejercemos **físicamente** o que sería claramente **visible** como la **realizamos**. Por ejemplo:
 
-<mark style="color:$primary;background-color:cyan;">/me se agacha e inspecciona el vehículo en busca de localizadores o objetos sospechosos.</mark>\ <mark style="color:$primary;background-color:cyan;">/me agarra una sudadera de su mochila y se la pone encima.</mark>
+```
+/me se agacha e inspecciona el vehículo en busca de localizadores o objetos sospechosos.
+/me agarra una sudadera de su mochila y se la pone encima.
+```
 
 #### Uso de /do
 
@@ -26,18 +29,17 @@ Aquí el policía **intenta engrilletar** a un criminal, pues a menos que esté 
 
 <mark style="color:cyan;">/me intenta engrilletar al sujeto</mark>\ <mark style="color:cyan;">/do podria?</mark>
 
-Aquí, el criminal responde al /do interrogativo.\
+Aquí, el criminal **responde** al /do **interrogativo**.\
 <mark style="color:$primary;">/do si</mark>
 
-A continuación el policía cachea al sujeto, y pregunta lo que encontraría, pues por ejemplo, no puedes llevar un carné de identidad funcional en ER:LC.\
-/me cachea al sujeto\
-/do que encontraría?
+A continuación el policía **cachea** al sujeto, y **pregunta** lo que encontraría, pues por ejemplo, no puedes llevar un carné de identidad funcional en ER:LC.\
+<mark style="color:cyan;">/me cachea al sujeto</mark>\ <mark style="color:cyan;">/do que encontraría?</mark>
 
-Aquí, el criminal le responde y le dice lo que tiene. Debe decir TODO lo que porta, si no, se consideraría, de nuevo, “Forzar Rol”.\
-/do un móvil, beretta m9 y navaja
+Aquí, el criminal le **responde** y le **dice** lo que tiene. Debe decir **TODO** lo que porta, si no, se consideraría, de nuevo, “**Forzar Rol**”.\
+<mark style="color:$primary;">/do un móvil, beretta m9 y navaja</mark>
 
-Y finalmente, el policía le quita todo, pero no tiene por qué usar /do porque está retenido y no tiene forma de resistir.\
-/me le quita todo y lo guarda en una bolsa
+Y **finalmente**, el policía le **quita todo**, pero no tiene por qué usar /do porque está **retenido** y **no** tiene forma de **resistir**.\
+<mark style="color:cyan;">/me le quita todo y lo guarda en una bolsa</mark>
 
-Este sería un ejemplo bastante claro de uso del /me y /do. Recuerda que si tienes alguna duda, debes de preguntar a un moderador mediante ticket o !mod.\
+Este sería un ejemplo **bastante claro** de uso del **/me** y **/do**. Recuerda que si tienes alguna **duda**, debes de **preguntar** a un moderador mediante **ticket** o **!mod**.\
 <br>
