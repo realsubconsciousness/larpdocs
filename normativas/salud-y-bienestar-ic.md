@@ -39,4 +39,14 @@ Para continuar el rol tras ser abatido, **un compañero tuyo deberá acercarse**
 
 Este es un ejemplo **simple y funcional** de lo explicado previamente. El compañero **pregunta dónde están las heridas**, **nos cura** y luego **nos pregunta si es efectivo**. De ser el caso que responda que no es efectivo, se **deberá tratar en hospital**.
 
-<br>
+#### Valoración de vida
+
+En todo momento deberás **valorar tanto tu vida**, como la de **aquellos que te importan IC**, tanto la de civiles o compañeros como oficial de policía y médico, como la de aliados y compañeros de banda como criminal.
+
+#### LLamadas a ambulancias, médicos y EMS
+
+De ser el caso que hayan servicios sanitarios activos (ambulancias, médicos, bomberos, etc...) deberás llamar a la ambulancia de ser que abatan a alguien.
+
+Si se rolea el chaleco antibalas, al acabar el tiroteo / conflicto la ambulancia deberá tratar a los heridos, no sus compañeros.
+
+Las ambulancias no podrán intervenir si hay algún conflicto físico activo, es decir, tiroteos, peleas, etc...
