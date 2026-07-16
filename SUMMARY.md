@@ -12,14 +12,14 @@
 * [Moderación](normativas/moderacion.md)
 * [Salud y Bienestar IC](normativas/salud-y-bienestar-ic.md)
 * [Acciones: /me y /do](normativas/acciones-me-y-do.md)
+* [Roles prohibidos](normativas/roles-prohibidos.md)
+* [Realismo](normativas/realismo.md)
 * [Vehículos](normativas/vehiculos.md)
 * [Zonas Seguras](normativas/zonas-seguras.md)
 * [Facciones Ilegales](normativas/facciones-ilegales.md)
 * [Diccionario de RP](normativas/diccionario-de-rp.md)
-* [Realismo](normativas/realismo.md)
 * [Beneficios y Booster](normativas/beneficios-y-booster.md)
 * [Facciones Legales](normativas/facciones-legales.md)
-* [Roles prohibidos](normativas/roles-prohibidos.md)
 
 ## Mecánicas de realismo
 
