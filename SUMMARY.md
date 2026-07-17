@@ -25,3 +25,4 @@
 ## Mecánicas de realismo
 
 * [Sistema DNI](mecanicas-de-realismo/sistema-dni.md)
+* [Economía](mecanicas-de-realismo/economia.md)
